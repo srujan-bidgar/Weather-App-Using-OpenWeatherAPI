@@ -11,5 +11,13 @@
 - [x] Managing sensitive information, such as API keys
 - [x] Implementing a simple yet efficient design using styling
 
+# Images
+![1stt](https://github.com/srujan-bidgar/Weather-App-Using-OpenWeatherAPI/assets/139164617/1735406f-0fb2-487e-8cc4-b3f93f40e63b)
+![2nddd](https://github.com/srujan-bidgar/Weather-App-Using-OpenWeatherAPI/assets/139164617/f27f9d80-7061-4d69-a455-5bc7c1133e2d)
+
+
  # Challenges
- - [x]  
+ - [x] Making asynchronous API requests to fetch weather data and ensuring the app remains responsive presented a significant challenge.
+       (solution:leveraging JavaScript's asynchronous capabilities and the async/await syntax to ensure that API requests did not block the main thread.)
+ - [x] Safeguarding API keys and other sensitive information from potential exposure in the codebase
+       (solution: We used environment variables to store and protect sensitive data like API keys.)     

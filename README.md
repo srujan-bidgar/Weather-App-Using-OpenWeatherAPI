@@ -12,7 +12,8 @@
 - [x] Implementing a simple yet efficient design using styling
 
 # Images
-![1stt](https://github.com/srujan-bidgar/Weather-App-Using-OpenWeatherAPI/assets/139164617/1735406f-0fb2-487e-8cc4-b3f93f40e63b)
+<img src="https://github.com/srujan-bidgar/Weather-App-Using-OpenWeatherAPI/assets/139164617/1735406f-0fb2-487e-8cc4-b3f93f40e63b" width="400" height="300" />
+
 ![2nddd](https://github.com/srujan-bidgar/Weather-App-Using-OpenWeatherAPI/assets/139164617/f27f9d80-7061-4d69-a455-5bc7c1133e2d)
 
 
